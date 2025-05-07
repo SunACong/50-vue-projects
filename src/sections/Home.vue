@@ -9,7 +9,7 @@
                 <span class="waving-hand">👋</span>
             </p>
             <p class="head-text">50 个独特的迷你项目来提升你的 HTML、CSS 和 JavaScript 技能</p>
-            <button class="btn border-2">让我们开始吧！！</button>
+            <button class="btn border-2 font-mono">🚀让我们开始吧！🚀</button>
         </div>
     </section>
 </template>

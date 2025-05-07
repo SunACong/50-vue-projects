@@ -3,8 +3,7 @@
         <div class="mx-auto max-w-7xl">
             <div class="c-space flex items-center justify-end py-5">
                 <div class="mr-auto flex items-center justify-center gap-2">
-                    <img src="../assets/vue.svg" alt="" />
-                    <h1 class="head-text">5050</h1>
+                    <img class="h-20 w-20" src="@/assets/logo.png" alt="" />
                 </div>
                 <div class="flex items-center justify-center gap-10">
                     <div
@@ -12,12 +11,11 @@
                         :key="item.id"
                         @click="currentTab = item.id"
                         :class="[
-                            'text-gray-200 transition-all hover:scale-105',
+                            'font-mono text-gray-200 transition-all hover:scale-105',
                             currentTab === item.id ? 'border-b-2 border-blue-400' : 'border-b-0',
                         ]">
                         <a :href="item.link">{{ item.title }}</a>
                     </div>
-                    <DarkModeToggle />
                 </div>
             </div>
         </div>
