@@ -1,5 +1,5 @@
 <template>
-    <section class="flex min-h-screen w-full flex-col" id="home">
+    <section class="flex min-h-screen w-full flex-col" id="Home">
         <div
             class="absolute inset-0 z-0 bg-[url(@/assets/showcase-bg.png)] bg-center bg-no-repeat opacity-20" />
         <div

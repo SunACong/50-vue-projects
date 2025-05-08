@@ -1,7 +1,7 @@
 export const navList = [
-    { id: 1, title: 'Home', link: '#home' },
-    { id: 2, title: 'Peoject', link: '#projects' },
-    { id: 3, title: 'About', link: '#about' },
+    { id: 1, title: 'Home', link: '#Home' },
+    { id: 2, title: 'Peoject', link: '#Projects' },
+    { id: 3, title: 'About', link: '#About' },
 ] 
 
 export const projectList = [

@@ -5,12 +5,12 @@ import ExpandingCards from '@/projects/ExpandingCards.vue'
 const routes = [
     {
         path: '/',
-        name: 'home',
+        name: 'Home',
         component: () => import('@/sections/Home.vue')
     },
     {
-        path: '/projects',
-        name: 'projects',
+        path: '/Projects',
+        name: 'Projects',
         component: () => import('@/sections/Projects.vue')
     },
     {

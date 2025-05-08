@@ -14,7 +14,7 @@
                             'font-mono text-gray-200 transition-all hover:scale-105',
                             currentTab === item.id ? 'border-b-2 border-blue-400' : 'border-b-0',
                         ]">
-                        <a :href="item.link">{{ item.title }}</a>
+                        <a :href="item.link" @click="goHome">{{ item.title }}</a>
                     </div>
                 </div>
             </div>
@@ -26,5 +26,5 @@
     import { ref } from 'vue'
     import { navList } from '../constants/index'
 
-    const currentTab = ref(0)
+    const currentTab = ref(1)
 </script>
