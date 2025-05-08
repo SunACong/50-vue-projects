@@ -9,7 +9,7 @@ export const projectList = [
         id: 1,
         title: 'Expanding Cards',
         image: 'https://50projects50days.com/img/projects-img/1-expanding-cards.png',
-        link: '#project1'
+        link: 'ExpandingCards'
     },
     { 
         id: 2,

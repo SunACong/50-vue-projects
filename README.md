@@ -64,11 +64,11 @@ pnpm build
 
 ## 📦 项目进度
 
-| 编号  | 项目名称        | 状态        | 路由地址                    |
-| ----- | --------------- | ----------- | --------------------------- |
-| 1     | Expanding Cards | 🚧 开发中   | `/projects/expanding-cards` |
-| 2     | Progress Steps  | 🚧 开发中   | `/projects/progress-steps`  |
-| 3\~50 | ...             | 🔜 敬请期待 | -                           |
+| 编号  | 项目名称        | 状态        | 路由地址                   |
+| ----- | --------------- | ----------- | -------------------------- |
+| 1     | Expanding Cards | ✅ 已完成   | `/projects/ExpandingCards` |
+| 2     | Progress Steps  | 🚧 开发中   | `/projects/ProgressSteps`  |
+| 3\~50 | ...             | 🔜 敬请期待 | -                          |
 
 > 🧱 每个项目都将作为独立页面进行展示，可在首页查看项目列表跳转。
 

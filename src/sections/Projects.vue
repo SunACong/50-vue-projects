@@ -12,11 +12,13 @@
                 <div
                     class="absolute inset-0 flex flex-col items-center justify-center bg-black/70 font-mono opacity-0 transition-opacity duration-300 ease-in-out hover:opacity-100">
                     <h3 class="mb-4 text-xl font-bold text-white">{{ item.title }}</h3>
-                    <a
-                        :href="item.link"
+                    <RouterLink
+                        :to="item.link"
+                        target="_blank"
+                        rel="noopener noreferrer"
                         class="rounded-md bg-blue-500 px-4 py-2 text-white transition-colors duration-200 hover:bg-blue-600">
                         Live Demo
-                    </a>
+                    </RouterLink>
                 </div>
             </div>
         </div>
