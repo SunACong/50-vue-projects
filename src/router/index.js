@@ -18,6 +18,11 @@ const routes = [
         name: 'ExpandingCards',
         component: ExpandingCards
     },
+    {
+        path: '/ProgressSteps',
+        name: 'ProgressSteps',
+        component: () => import('@/projects/ProgressSteps.vue')
+    }
 ]
 
 const router = createRouter({

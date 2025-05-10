@@ -13,9 +13,9 @@ export const projectList = [
     },
     { 
         id: 2,
-        title: 'Project 2', 
+        title: 'Progress Steps', 
         image: 'https://50projects50days.com/img/projects-img/2-progress-steps.png',
-        link: '#project2' 
+        link: 'ProgressSteps' 
     },
     {
         id: 3,
