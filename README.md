@@ -64,12 +64,13 @@ pnpm build
 
 ## 📦 项目进度
 
-| 编号  | 项目名称             | 状态        | 路由地址                       |
-| ----- | -------------------- | ----------- | ------------------------------ |
-| 1     | Expanding Cards      | ✅ 已完成   | `/projects/ExpandingCards`     |
-| 2     | Progress Steps       | ✅ 已完成   | `/projects/ProgressSteps`      |
-| 3     | Hidden Search Widget | 🚧 开发中   | `/projects/HiddenSearchWidget` |
-| 4\~50 | ...                  | 🔜 敬请期待 | -                              |
+| 编号  | 项目名称                      | 状态        | 路由地址                                |
+| ----- | ----------------------------- | ----------- | --------------------------------------- |
+| 1     | Expanding Cards               | ✅ 已完成   | `/projects/ExpandingCards`              |
+| 2     | Progress Steps                | ✅ 已完成   | `/projects/ProgressSteps`               |
+| 3     | Hidden Search Widget          | ✅ 已完成   | `/projects/HiddenSearchWidget`          |
+| 4     | Rotating Navigation Animation | 🚧 开发中   | `/projects/RotatingNavigationAnimation` |
+| 4\~50 | ...                           | 🔜 敬请期待 | -                                       |
 
 > 🧱 每个项目都将作为独立页面进行展示，可在首页查看项目列表跳转。
 
