@@ -22,6 +22,11 @@ const routes = [
         path: '/ProgressSteps',
         name: 'ProgressSteps',
         component: () => import('@/projects/ProgressSteps.vue')
+    },
+    {
+        path: '/HiddenSearchWidget',
+        name: 'HiddenSearchWidget',
+        component: () => import('@/projects/HiddenSearchWidget.vue')
     }
 ]
 

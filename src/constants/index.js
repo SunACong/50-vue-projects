@@ -24,10 +24,10 @@ export const projectList = [
         link: '#project3'
     },
     {
-        id: 3,
-        title: 'Project 3',
-        image: 'https://50projects50days.com/img/projects-img/3-rotating-navigation-animation.png',
-        link: '#project3'
+        id: 4,
+        title: 'Hidden Search Widget',
+        image: 'https://50projects50days.com/img/projects-img/4-hidden-search-widget.png',
+        link: 'HiddenSearchWidget'
     },
     {
         id: 3,
