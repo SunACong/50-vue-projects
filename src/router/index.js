@@ -27,6 +27,11 @@ const routes = [
         path: '/HiddenSearchWidget',
         name: 'HiddenSearchWidget',
         component: () => import('@/projects/HiddenSearchWidget.vue')
+    },
+    {
+        path: '/RotatingNavigationAnimation',
+        name: 'RotatingNavigationAnimation',
+        component: () => import('@/projects/RotatingNavigationAnimation.vue')
     }
 ]
 

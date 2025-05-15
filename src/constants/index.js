@@ -19,9 +19,9 @@ export const projectList = [
     },
     {
         id: 3,
-        title: 'Project 3',
+        title: 'Rotating Navigation Animation',
         image: 'https://50projects50days.com/img/projects-img/3-rotating-navigation-animation.png',
-        link: '#project3'
+        link: 'RotatingNavigationAnimation'
     },
     {
         id: 4,

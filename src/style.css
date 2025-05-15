@@ -132,7 +132,13 @@
     }
 
     .head-text {
-        @apply bg-gradient-to-r from-[#BEC1CF] from-60% via-[#D5D8EA] via-60% to-[#D5D8EA] to-100% bg-clip-text text-3xl font-semibold text-transparent sm:text-4xl;
+        @apply bg-clip-text text-4xl font-semibold text-white sm:text-4xl;
+    }
+    .sub-text {
+        @apply bg-clip-text text-2xl font-semibold text-white sm:text-2xl;
+    }
+    .base-text {
+        @apply bg-clip-text text-base text-white sm:text-base;
     }
 
     .btn {
