@@ -30,10 +30,10 @@ export const projectList = [
         link: 'HiddenSearchWidget'
     },
     {
-        id: 3,
-        title: 'Project 3',
-        image: 'https://50projects50days.com/img/projects-img/3-rotating-navigation-animation.png',
-        link: '#project3'
+        id: 5,
+        title: 'Blurry Loading',
+        image: 'https://50projects50days.com/img/projects-img/5-blurry-loading.png',
+        link: 'BlurryLoading'
     },
     {
         id: 3,

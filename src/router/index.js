@@ -32,6 +32,11 @@ const routes = [
         path: '/RotatingNavigationAnimation',
         name: 'RotatingNavigationAnimation',
         component: () => import('@/projects/RotatingNavigationAnimation.vue')
+    },
+    {
+        path: '/BlurryLoading',
+        name: 'BlurryLoading',
+        component: () => import('@/projects/BlurryLoading.vue')
     }
 ]
 
