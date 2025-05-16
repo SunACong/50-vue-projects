@@ -71,8 +71,9 @@ pnpm build
 | 3     | Hidden Search Widget          | ✅ 已完成   | `/projects/HiddenSearchWidget`          |
 | 4     | Rotating Navigation Animation | ✅ 已完成   | `/projects/RotatingNavigationAnimation` |
 | 5     | Blurry Loading                | ✅ 已完成   | `/projects/BlurryLoading`               |
-| 6     | Scroll Animation              | 🚧 开发中   | `/projects/ScrollAnimation`             |
-| 7\~50 | ...                           | 🔜 敬请期待 | -                                       |
+| 6     | Scroll Animation              | ✅ 已完成   | `/projects/ScrollAnimation`             |
+| 7     | Split Landing Page            | 🚧 开发中   | `/projects/SplitLandingPage`            |
+| 8\~50 | ...                           | 🔜 敬请期待 | -                                       |
 
 > 🧱 每个项目都将作为独立页面进行展示，可在首页查看项目列表跳转。
 

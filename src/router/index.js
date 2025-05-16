@@ -37,6 +37,11 @@ const routes = [
         path: '/BlurryLoading',
         name: 'BlurryLoading',
         component: () => import('@/projects/BlurryLoading.vue')
+    },
+    {
+        path: '/ScrollAnimation',
+        name: 'ScrollAnimation',
+        component: () => import('@/projects/ScrollAnimation.vue')
     }
 ]
 
