@@ -1,7 +1,7 @@
 <template>
     <div
         :class="[
-            'origin-top-left text-white transition-all duration-500 ease-in-out',
+            'origin-top-left bg-white transition-all duration-500 ease-in-out',
             turnRotate ? '-rotate-30' : 'rotate-0',
         ]">
         <div
@@ -10,7 +10,7 @@
                 turnRotate ? '-rotate-[65deg]' : 'rotate-0',
             ]"
             @click="turnRotate = !turnRotate">
-            <div class="h-40 w-40 rounded-full bg-fuchsia-300">
+            <div class="h-40 w-40 rounded-full bg-fuchsia-300 text-white">
                 <button class="absolute right-10 bottom-7 text-3xl">≡</button>
                 <button class="absolute bottom-8 left-8 text-3xl">×</button>
             </div>
@@ -49,18 +49,22 @@
     </div>
 
     <div>
-        <nav>
-            <ul>
-                <li>
-                    <i class=""></i>
+        <nav
+            :class="[
+                'fixed bottom-40 left-0 z-10 text-white transition-all duration-500 ease-in-out',
+                turnRotate ? 'translate-x-0' : '-translate-x-[200px]',
+            ]">
+            <ul class="list-none pl-8">
+                <li class="my-10 uppercase transition-all duration-500 ease-in">
+                    🏠
                     <a href="#">Home</a>
                 </li>
-                <li>
-                    <i class=""></i>
+                <li class="my-10 translate-x-4/12 uppercase transition-all duration-500 ease-in">
+                    👋
                     <a href="#">About</a>
                 </li>
-                <li>
-                    <i class=""></i>
+                <li class="my-10 translate-x-8/12 uppercase transition-all duration-500 ease-in">
+                    📧
                     <a href="#">Contact</a>
                 </li>
             </ul>
