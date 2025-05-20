@@ -41,4 +41,10 @@ export const projectList = [
         image: 'https://50projects50days.com/img/projects-img/6-scroll-animation.png',
         link: 'ScrollAnimation',
     },
+    {
+        id: 7,
+        title: 'Split Landing Page',
+        image: 'https://50projects50days.com/img/projects-img/7-split-landing-page.png',
+        link: 'SplitLandingPage',
+    },
 ]

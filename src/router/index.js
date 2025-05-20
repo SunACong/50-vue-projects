@@ -6,43 +6,48 @@ const routes = [
     {
         path: '/',
         name: 'Home',
-        component: () => import('@/sections/Home.vue')
+        component: () => import('@/sections/Home.vue'),
     },
     {
         path: '/Projects',
         name: 'Projects',
-        component: () => import('@/sections/Projects.vue')
+        component: () => import('@/sections/Projects.vue'),
     },
     {
         path: '/ExpandingCards',
         name: 'ExpandingCards',
-        component: ExpandingCards
+        component: ExpandingCards,
     },
     {
         path: '/ProgressSteps',
         name: 'ProgressSteps',
-        component: () => import('@/projects/ProgressSteps.vue')
+        component: () => import('@/projects/ProgressSteps.vue'),
     },
     {
         path: '/HiddenSearchWidget',
         name: 'HiddenSearchWidget',
-        component: () => import('@/projects/HiddenSearchWidget.vue')
+        component: () => import('@/projects/HiddenSearchWidget.vue'),
     },
     {
         path: '/RotatingNavigationAnimation',
         name: 'RotatingNavigationAnimation',
-        component: () => import('@/projects/RotatingNavigationAnimation.vue')
+        component: () => import('@/projects/RotatingNavigationAnimation.vue'),
     },
     {
         path: '/BlurryLoading',
         name: 'BlurryLoading',
-        component: () => import('@/projects/BlurryLoading.vue')
+        component: () => import('@/projects/BlurryLoading.vue'),
     },
     {
         path: '/ScrollAnimation',
         name: 'ScrollAnimation',
-        component: () => import('@/projects/ScrollAnimation.vue')
-    }
+        component: () => import('@/projects/ScrollAnimation.vue'),
+    },
+    {
+        path: '/SplitLandingPage',
+        name: 'SplitLandingPage',
+        component: () => import('@/projects/SplitLandingPage.vue'),
+    },
 ]
 
 const router = createRouter({
