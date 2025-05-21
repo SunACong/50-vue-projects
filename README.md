@@ -2,7 +2,7 @@
 
 本项目是对 Brad Traversy 的经典挑战项目 [50 Projects in 50 Days](https://github.com/bradtraversy/50projects50days.git) 的 Vue3 + Tailwind CSS 重构版。
 
-> 💡 原项目使用的是原生 HTML/CSS/JS，本项目将其重构为组件化、现代化的 Vue3 应用，配合 TailwindCSS 实现更高效的 UI 构建。
+> 💡 原项目使用的是原生 HTML/CSS/JS，本项目将其重构为 现代化的 Vue3 应用，配合 TailwindCSS 实现更高效的 UI 构建，为你日后的组件设计提供灵感源头。
 
 ---
 
