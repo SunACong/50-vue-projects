@@ -47,4 +47,10 @@ export const projectList = [
         image: 'https://50projects50days.com/img/projects-img/7-split-landing-page.png',
         link: 'SplitLandingPage',
     },
+    {
+        id: 8,
+        title: 'Form Wave',
+        image: 'https://50projects50days.com/img/projects-img/7-split-landing-page.png',
+        link: 'FormWave',
+    },
 ]

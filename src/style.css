@@ -142,7 +142,7 @@
     }
 
     .btn {
-        @apply mx-auto flex cursor-pointer items-center justify-center gap-4 rounded-md bg-black p-3 text-white transition-all active:scale-95;
+        @apply mx-auto flex cursor-pointer items-center justify-center gap-4 rounded-md p-3 text-white transition-all active:scale-95;
     }
 
     .btn-ping_dot {

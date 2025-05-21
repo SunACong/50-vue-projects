@@ -48,6 +48,11 @@ const routes = [
         name: 'SplitLandingPage',
         component: () => import('@/projects/SplitLandingPage.vue'),
     },
+    {
+        path: '/FormWave',
+        name: 'FormWave',
+        component: () => import('@/projects/FormWave.vue'),
+    },
 ]
 
 const router = createRouter({
