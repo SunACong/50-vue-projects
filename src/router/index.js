@@ -53,6 +53,11 @@ const routes = [
         name: 'FormWave',
         component: () => import('@/projects/FormWave.vue'),
     },
+    {
+        path: '/SoundBoard',
+        name: 'SoundBoard',
+        component: () => import('@/projects/SoundBoard.vue'),
+    },
 ]
 
 const router = createRouter({

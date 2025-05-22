@@ -50,7 +50,13 @@ export const projectList = [
     {
         id: 8,
         title: 'Form Wave',
-        image: 'https://50projects50days.com/img/projects-img/7-split-landing-page.png',
+        image: 'https://50projects50days.com/img/projects-img/8-form-wave.png',
         link: 'FormWave',
+    },
+    {
+        id: 9,
+        title: 'Sound Board',
+        image: 'https://50projects50days.com/img/projects-img/9-sound-board.png',
+        link: 'SoundBoard',
     },
 ]

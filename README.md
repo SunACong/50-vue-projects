@@ -74,8 +74,9 @@ pnpm build
 | 6      | Scroll Animation              | ✅ 已完成   | `/projects/ScrollAnimation`             |
 | 7      | Split Landing Page            | ✅ 已完成   | `/projects/SplitLandingPage`            |
 | 8      | Form Wave                     | ✅ 已完成   | `/projects/FormWave`                    |
-| 9      | Sound Board                   | 🚧 开发中   | `/projects/SoundBoard`                  |
-| 10\~50 | ...                           | 🔜 敬请期待 | -                                       |
+| 9      | Sound Board                   | ✅ 已完成   | `/projects/SoundBoard`                  |
+| 10     | Dad Jokes                     | 🚧 开发中   | `/projects/DadJokes`                    |
+| 11\~50 | ...                           | 🔜 敬请期待 | -                                       |
 
 > 🧱 每个项目都将作为独立页面进行展示，可在首页查看项目列表跳转。
 
