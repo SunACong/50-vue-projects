@@ -75,8 +75,9 @@ pnpm build
 | 7      | Split Landing Page            | ✅ 已完成   | `/projects/SplitLandingPage`            |
 | 8      | Form Wave                     | ✅ 已完成   | `/projects/FormWave`                    |
 | 9      | Sound Board                   | ✅ 已完成   | `/projects/SoundBoard`                  |
-| 10     | Dad Jokes                     | 🚧 开发中   | `/projects/DadJokes`                    |
-| 11\~50 | ...                           | 🔜 敬请期待 | -                                       |
+| 10     | Dad Jokes                     | ✅ 已完成   | `/projects/DadJokes`                    |
+| 11     | Event Keycodes                | 🚧 开发中   | `/projects/EventKeycodes`               |
+| 12\~50 | ...                           | 🔜 敬请期待 | -                                       |
 
 > 🧱 每个项目都将作为独立页面进行展示，可在首页查看项目列表跳转。
 

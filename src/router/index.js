@@ -58,6 +58,11 @@ const routes = [
         name: 'SoundBoard',
         component: () => import('@/projects/SoundBoard.vue'),
     },
+    {
+        path: '/DadJokes',
+        name: 'DadJokes',
+        component: () => import('@/projects/DadJokes.vue'),
+    },
 ]
 
 const router = createRouter({

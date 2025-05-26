@@ -59,4 +59,10 @@ export const projectList = [
         image: 'https://50projects50days.com/img/projects-img/9-sound-board.png',
         link: 'SoundBoard',
     },
+    {
+        id: 10,
+        title: 'Dad Jokes',
+        image: 'https://50projects50days.com/img/projects-img/10-dad-jokes.png',
+        link: 'DadJokes',
+    },
 ]
