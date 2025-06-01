@@ -64,20 +64,22 @@ pnpm build
 
 ## 📦 项目进度
 
-| 编号   | 项目名称                      | 状态        | 路由地址                                |
-| ------ | ----------------------------- | ----------- | --------------------------------------- |
-| 1      | Expanding Cards               | ✅ 已完成   | `/projects/ExpandingCards`              |
-| 2      | Progress Steps                | ✅ 已完成   | `/projects/ProgressSteps`               |
-| 3      | Hidden Search Widget          | ✅ 已完成   | `/projects/HiddenSearchWidget`          |
-| 4      | Rotating Navigation Animation | ✅ 已完成   | `/projects/RotatingNavigationAnimation` |
-| 5      | Blurry Loading                | ✅ 已完成   | `/projects/BlurryLoading`               |
-| 6      | Scroll Animation              | ✅ 已完成   | `/projects/ScrollAnimation`             |
-| 7      | Split Landing Page            | ✅ 已完成   | `/projects/SplitLandingPage`            |
-| 8      | Form Wave                     | ✅ 已完成   | `/projects/FormWave`                    |
-| 9      | Sound Board                   | ✅ 已完成   | `/projects/SoundBoard`                  |
-| 10     | Dad Jokes                     | ✅ 已完成   | `/projects/DadJokes`                    |
-| 11     | Event Keycodes                | 🚧 开发中   | `/projects/EventKeycodes`               |
-| 12\~50 | ...                           | 🔜 敬请期待 | -                                       |
+| 编号 | 项目名称                      | 状态      | 路由地址                                |
+| ---- | ----------------------------- | --------- | --------------------------------------- |
+| 1    | Expanding Cards               | ✅ 已完成 | `/projects/ExpandingCards`              |
+| 2    | Progress Steps                | ✅ 已完成 | `/projects/ProgressSteps`               |
+| 3    | Hidden Search Widget          | ✅ 已完成 | `/projects/HiddenSearchWidget`          |
+| 4    | Rotating Navigation Animation | ✅ 已完成 | `/projects/RotatingNavigationAnimation` |
+| 5    | Blurry Loading                | ✅ 已完成 | `/projects/BlurryLoading`               |
+| 6    | Scroll Animation              | ✅ 已完成 | `/projects/ScrollAnimation`             |
+| 7    | Split Landing Page            | ✅ 已完成 | `/projects/SplitLandingPage`            |
+| 8    | Form Wave                     | ✅ 已完成 | `/projects/FormWave`                    |
+| 9    | Sound Board                   | ✅ 已完成 | `/projects/SoundBoard`                  |
+| 10   | Dad Jokes                     | ✅ 已完成 | `/projects/DadJokes`                    |
+| 11   | Event Keycodes                | ✅ 已完成 | `/projects/EventKeycodes`               |
+| 12   | FAQ Collapse                  | 🚧 开发中 | `/projects/FAQCollapse`                 |
+
+| 13\~50 | ... | 🔜 敬请期待 | - |
 
 > 🧱 每个项目都将作为独立页面进行展示，可在首页查看项目列表跳转。
 

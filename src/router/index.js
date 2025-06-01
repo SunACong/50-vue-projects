@@ -63,6 +63,11 @@ const routes = [
         name: 'DadJokes',
         component: () => import('@/projects/DadJokes.vue'),
     },
+    {
+        path: '/EventKeyCodes',
+        name: 'EventKeyCodes',
+        component: () => import('@/projects/EventKeyCodes.vue'),
+    },
 ]
 
 const router = createRouter({
