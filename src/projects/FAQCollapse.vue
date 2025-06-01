@@ -12,9 +12,17 @@
                 </div>
                 <div v-else class="text-2xl font-bold" @click="currentCollapse(index)">+</div>
             </div>
-            <div v-if="item.isOpen" class="mt-4 text-xl font-bold">
-                {{ item.answer }}
-            </div>
+            <Transition
+                enter-active-class="transition duration-500 ease-in-out"
+                enter-from-class="opacity-0 -translate-y-2"
+                enter-to-class="opacity-100 translate-y-0"
+                leave-active-class="transition duration-200 ease-in"
+                leave-from-class="opacity-100 translate-y-0"
+                leave-to-class="opacity-0 -translate-y-2">
+                <div v-if="item.isOpen" class="mt-4 text-xl font-bold">
+                    {{ item.answer }}
+                </div>
+            </Transition>
         </div>
     </div>
 </template>
