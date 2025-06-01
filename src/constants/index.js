@@ -66,9 +66,15 @@ export const projectList = [
         link: 'DadJokes',
     },
     {
-        id: 10,
-        title: 'EventKeyCodes',
+        id: 11,
+        title: 'Event KeyCodes',
         image: 'https://50projects50days.com/img/projects-img/11-event-keycodes.png',
         link: 'EventKeyCodes',
+    },
+    {
+        id: 12,
+        title: 'FAQ Collapse',
+        image: 'https://50projects50days.com/img/projects-img/12-faq-collapse.png',
+        link: 'FAQCollapse',
     },
 ]

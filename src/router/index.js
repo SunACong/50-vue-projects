@@ -68,6 +68,11 @@ const routes = [
         name: 'EventKeyCodes',
         component: () => import('@/projects/EventKeyCodes.vue'),
     },
+    {
+        path: '/FAQCollapse',
+        name: 'FAQCollapse',
+        component: () => import('@/projects/FAQCollapse.vue'),
+    },
 ]
 
 const router = createRouter({
