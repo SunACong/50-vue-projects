@@ -78,9 +78,10 @@ pnpm build
 | 10   | Dad Jokes                     | ✅ 已完成 | `/projects/DadJokes`                    |
 | 11   | Event Keycodes                | ✅ 已完成 | `/projects/EventKeycodes`               |
 | 12   | FAQ Collapse                  | ✅ 已完成 | `/projects/FAQCollapse`                 |
-| 13   | Random Choice Picker          | 🚧 开发中 | `/projects/RandomChoicePicker`          |
+| 13   | Random Choice Picker          | ✅ 已完成 | `/projects/RandomChoicePicker`          |
+| 14   | Animated Navigation           | 🚧 开发中 | `/projects/AnimatedNavigation`          |
 
-| 14\~50 | ... | 🔜 敬请期待 | - |
+| 15\~50 | ... | 🔜 敬请期待 | - |
 
 > 🧱 每个项目都将作为独立页面进行展示，可在首页查看项目列表跳转。
 

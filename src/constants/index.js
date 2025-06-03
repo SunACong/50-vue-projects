@@ -77,4 +77,10 @@ export const projectList = [
         image: 'https://50projects50days.com/img/projects-img/12-faq-collapse.png',
         link: 'FAQCollapse',
     },
+    {
+        id: 13,
+        title: 'Random Choice Picker',
+        image: 'https://50projects50days.com/img/projects-img/13-random-choice-picker.png',
+        link: 'RandomChoicePicker',
+    },
 ]

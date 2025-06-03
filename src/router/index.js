@@ -73,6 +73,11 @@ const routes = [
         name: 'FAQCollapse',
         component: () => import('@/projects/FAQCollapse.vue'),
     },
+    {
+        path: '/RandomChoicePicker',
+        name: 'RandomChoicePicker',
+        component: () => import('@/projects/RandomChoicePicker.vue'),
+    },
 ]
 
 const router = createRouter({
