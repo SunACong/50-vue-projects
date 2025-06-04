@@ -78,6 +78,11 @@ const routes = [
         name: 'RandomChoicePicker',
         component: () => import('@/projects/RandomChoicePicker.vue'),
     },
+    {
+        path: '/AnimatedNavigation',
+        name: 'AnimatedNavigation',
+        component: () => import('@/projects/AnimatedNavigation.vue'),
+    },
 ]
 
 const router = createRouter({

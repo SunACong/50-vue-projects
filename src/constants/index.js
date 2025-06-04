@@ -83,4 +83,10 @@ export const projectList = [
         image: 'https://50projects50days.com/img/projects-img/13-random-choice-picker.png',
         link: 'RandomChoicePicker',
     },
+    {
+        id: 14,
+        title: 'Animated Navigation',
+        image: 'https://50projects50days.com/img/projects-img/14-animated-navigation.png',
+        link: 'AnimatedNavigation',
+    },
 ]

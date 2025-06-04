@@ -79,9 +79,10 @@ pnpm build
 | 11   | Event Keycodes                | ✅ 已完成 | `/projects/EventKeycodes`               |
 | 12   | FAQ Collapse                  | ✅ 已完成 | `/projects/FAQCollapse`                 |
 | 13   | Random Choice Picker          | ✅ 已完成 | `/projects/RandomChoicePicker`          |
-| 14   | Animated Navigation           | 🚧 开发中 | `/projects/AnimatedNavigation`          |
+| 14   | Animated Navigation           | ✅ 已完成 | `/projects/AnimatedNavigation`          |
+| 15   | Incrementing Counter          | 🚧 开发中 | `/projects/IncrementingCounter`         |
 
-| 15\~50 | ... | 🔜 敬请期待 | - |
+| 16\~50 | ... | 🔜 敬请期待 | - |
 
 > 🧱 每个项目都将作为独立页面进行展示，可在首页查看项目列表跳转。
 
