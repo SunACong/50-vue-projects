@@ -89,4 +89,10 @@ export const projectList = [
         image: 'https://50projects50days.com/img/projects-img/14-animated-navigation.png',
         link: 'AnimatedNavigation',
     },
+    {
+        id: 15,
+        title: 'Incrementing Counter',
+        image: 'https://50projects50days.com/img/projects-img/15-incrementing-counter.png',
+        link: 'IncrementingCounter',
+    },
 ]

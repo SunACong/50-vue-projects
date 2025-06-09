@@ -83,6 +83,11 @@ const routes = [
         name: 'AnimatedNavigation',
         component: () => import('@/projects/AnimatedNavigation.vue'),
     },
+    {
+        path: '/IncrementingCounter',
+        name: 'IncrementingCounter',
+        component: () => import('@/projects/IncrementingCounter.vue'),
+    },
 ]
 
 const router = createRouter({
