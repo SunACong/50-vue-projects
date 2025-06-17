@@ -88,6 +88,11 @@ const routes = [
         name: 'IncrementingCounter',
         component: () => import('@/projects/IncrementingCounter.vue'),
     },
+    {
+        path: '/DrinkWater',
+        name: 'DrinkWater',
+        component: () => import('@/projects/DrinkWater.vue'),
+    },
 ]
 
 const router = createRouter({

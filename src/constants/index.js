@@ -95,4 +95,10 @@ export const projectList = [
         image: 'https://50projects50days.com/img/projects-img/15-incrementing-counter.png',
         link: 'IncrementingCounter',
     },
+    {
+        id: 16,
+        title: 'Drink Water',
+        image: 'https://50projects50days.com/img/projects-img/16-drink-water.png',
+        link: 'DrinkWater',
+    },
 ]

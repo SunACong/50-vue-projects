@@ -80,9 +80,11 @@ pnpm build
 | 12   | FAQ Collapse                  | ✅ 已完成 | `/projects/FAQCollapse`                 |
 | 13   | Random Choice Picker          | ✅ 已完成 | `/projects/RandomChoicePicker`          |
 | 14   | Animated Navigation           | ✅ 已完成 | `/projects/AnimatedNavigation`          |
-| 15   | Incrementing Counter          | 🚧 开发中 | `/projects/IncrementingCounter`         |
+| 15   | Incrementing Counter          | ✅ 已完成 | `/projects/IncrementingCounter`         |
+| 16   | Drink Water                   | ✅ 已完成 | `/projects/DrinkWater`                  |
+| 17   | Movie App                     | 🚧 开发中 | `/projects/MovieApp`                    |
 
-| 16\~50 | ... | 🔜 敬请期待 | - |
+| 17\~50 | ... | 🔜 敬请期待 | - |
 
 > 🧱 每个项目都将作为独立页面进行展示，可在首页查看项目列表跳转。
 
