@@ -93,6 +93,11 @@ const routes = [
         name: 'DrinkWater',
         component: () => import('@/projects/DrinkWater.vue'),
     },
+    {
+        path: '/MovieApp',
+        name: 'MovieApp',
+        component: () => import('@/projects/MovieApp.vue'),
+    },
 ]
 
 const router = createRouter({
