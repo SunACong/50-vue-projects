@@ -98,6 +98,11 @@ const routes = [
         name: 'MovieApp',
         component: () => import('@/projects/MovieApp.vue'),
     },
+    {
+        path: '/BackgroundSlider',
+        name: 'BackgroundSlider',
+        component: () => import('@/projects/BackgroundSlider.vue'),
+    },
 ]
 
 const router = createRouter({

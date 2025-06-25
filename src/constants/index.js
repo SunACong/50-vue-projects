@@ -107,4 +107,10 @@ export const projectList = [
         image: 'https://50projects50days.com/img/projects-img/17-movie-app.png',
         link: 'MovieApp',
     },
+    {
+        id: 18,
+        title: 'Background Slider',
+        image: 'https://50projects50days.com/img/projects-img/18-background-slider.png',
+        link: 'BackgroundSlider',
+    },
 ]

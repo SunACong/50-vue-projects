@@ -83,9 +83,10 @@ pnpm build
 | 15   | Incrementing Counter          | ✅ 已完成 | `/projects/IncrementingCounter`         |
 | 16   | Drink Water                   | ✅ 已完成 | `/projects/DrinkWater`                  |
 | 17   | Movie App                     | ✅ 已完成 | `/projects/MovieApp`                    |
-| 18   | Background Slider             | 🚧 开发中 | `/projects/BackgroundSlider`            |
+| 18   | Background Slider             | ✅ 已完成 | `/projects/BackgroundSlider`            |
+| 19   | Theme Clock                   | 🚧 开发中 | `/projects/ThemeClock`                  |
 
-| 18\~50 | ... | 🔜 敬请期待 | - |
+| 19\~50 | ... | 🔜 敬请期待 | - |
 
 > 🧱 每个项目都将作为独立页面进行展示，可在首页查看项目列表跳转。
 
