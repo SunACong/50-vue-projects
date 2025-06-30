@@ -84,9 +84,10 @@ pnpm build
 | 16   | Drink Water                   | ✅ 已完成 | `/projects/DrinkWater`                  |
 | 17   | Movie App                     | ✅ 已完成 | `/projects/MovieApp`                    |
 | 18   | Background Slider             | ✅ 已完成 | `/projects/BackgroundSlider`            |
-| 19   | Theme Clock                   | 🚧 开发中 | `/projects/ThemeClock`                  |
+| 19   | Theme Clock                   | ✅ 已完成 | `/projects/ThemeClock`                  |
+| 20   | Button Ripple Effect          | 🚧 开发中 | `/projects/ButtonRippleEffect`          |
 
-| 19\~50 | ... | 🔜 敬请期待 | - |
+| 20\~50 | ... | 🔜 敬请期待 | - |
 
 > 🧱 每个项目都将作为独立页面进行展示，可在首页查看项目列表跳转。
 

@@ -113,4 +113,10 @@ export const projectList = [
         image: 'https://50projects50days.com/img/projects-img/18-background-slider.png',
         link: 'BackgroundSlider',
     },
+    {
+        id: 19,
+        title: 'Theme Clock',
+        image: 'https://50projects50days.com/img/projects-img/19-theme-clock.png',
+        link: 'ThemeClock',
+    },
 ]

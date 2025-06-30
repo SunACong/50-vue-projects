@@ -103,6 +103,11 @@ const routes = [
         name: 'BackgroundSlider',
         component: () => import('@/projects/BackgroundSlider.vue'),
     },
+    {
+        path: '/ThemeClock',
+        name: 'ThemeClock',
+        component: () => import('@/projects/ThemeClock.vue'),
+    },
 ]
 
 const router = createRouter({
