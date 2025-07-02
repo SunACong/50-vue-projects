@@ -108,6 +108,11 @@ const routes = [
         name: 'ThemeClock',
         component: () => import('@/projects/ThemeClock.vue'),
     },
+    {
+        path: '/ButtonRippleEffect',
+        name: 'ButtonRippleEffect',
+        component: () => import('@/projects/ButtonRippleEffect.vue'),
+    },
 ]
 
 const router = createRouter({

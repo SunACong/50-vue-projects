@@ -119,4 +119,10 @@ export const projectList = [
         image: 'https://50projects50days.com/img/projects-img/19-theme-clock.png',
         link: 'ThemeClock',
     },
+    {
+        id: 20,
+        title: 'Button Ripple Effect',
+        image: 'https://50projects50days.com/img/projects-img/20-button-ripple-effect.png',
+        link: 'ButtonRippleEffect',
+    },
 ]
