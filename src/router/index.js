@@ -113,6 +113,11 @@ const routes = [
         name: 'ButtonRippleEffect',
         component: () => import('@/projects/ButtonRippleEffect.vue'),
     },
+    {
+        path: '/DragNDrop',
+        name: 'DragNDrop',
+        component: () => import('@/projects/DragNDrop.vue'),
+    },
 ]
 
 const router = createRouter({

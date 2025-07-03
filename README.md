@@ -86,9 +86,10 @@ pnpm build
 | 18   | Background Slider             | ✅ 已完成 | `/projects/BackgroundSlider`            |
 | 19   | Theme Clock                   | ✅ 已完成 | `/projects/ThemeClock`                  |
 | 20   | Button Ripple Effect          | ✅ 已完成 | `/projects/ButtonRippleEffect`          |
-| 21   | Drag N Drop                   | 🚧 开发中 | `/projects/DragNDrop`                   |
+| 21   | Drag N Drop                   | ✅ 已完成 | `/projects/DragNDrop`                   |
+| 22   | Drawing App                   | 🚧 开发中 | `/projects/DrawingApp`                  |
 
-| 21\~50 | ... | 🔜 敬请期待 | - |
+| 22\~50 | ... | 🔜 敬请期待 | - |
 
 > 🧱 每个项目都将作为独立页面进行展示，可在首页查看项目列表跳转。
 
@@ -99,8 +100,7 @@ pnpm build
 如果你也想参与重构或提交优化：
 
 1. Fork 本项目
-2. 提交你的改动（建议一个项目一个 PR）
-3. 发起 Pull Request，我们一起让这个项目更好！
+2. 提交你的改动（建议一个项目一个 PR）3. 发起 Pull Request，我们一起让这个项目更好！
 
 ---
 

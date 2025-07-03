@@ -125,4 +125,10 @@ export const projectList = [
         image: 'https://50projects50days.com/img/projects-img/20-button-ripple-effect.png',
         link: 'ButtonRippleEffect',
     },
+    {
+        id: 21,
+        title: 'Drag N Drop',
+        image: 'https://50projects50days.com/img/projects-img/21-drag-n-drop.png',
+        link: 'DragNDrop',
+    },
 ]
