@@ -131,4 +131,10 @@ export const projectList = [
         image: 'https://50projects50days.com/img/projects-img/21-drag-n-drop.png',
         link: 'DragNDrop',
     },
+    {
+        id: 22,
+        title: 'Drawing App',
+        image: 'https://50projects50days.com/img/projects-img/22-drawing-app.png',
+        link: 'DrawingApp',
+    },
 ]

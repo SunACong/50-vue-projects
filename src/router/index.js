@@ -118,6 +118,11 @@ const routes = [
         name: 'DragNDrop',
         component: () => import('@/projects/DragNDrop.vue'),
     },
+    {
+        path: '/DrawingApp',
+        name: 'DrawingApp',
+        component: () => import('@/projects/DrawingApp.vue'),
+    },
 ]
 
 const router = createRouter({
