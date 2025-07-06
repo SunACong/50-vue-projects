@@ -1,12 +1,14 @@
 <template>
-    <div class="bg-steelblue flex h-screen items-center justify-center overflow-hidden">
+    <div class="flex h-screen items-center justify-center overflow-hidden bg-sky-500">
         <div
             v-for="(empty, index) in empties"
             :key="index"
-            class="m-2 h-36 w-36 border-4 border-black bg-white"
-            :class="{ hovered: isHovered[index] }"
+            :class="[
+                'm-2 h-36 w-36 border-4 border-black bg-white',
+                isHovered[index] && 'border-dashed border-black bg-gray-800',
+            ]"
             @dragover.prevent="dragOver"
-            @dragenter.prevent="dragEnter(index)"
+            @dragenter.prevent="dragEnter(index)" 
             @dragleave="dragLeave(index)"
             @drop="dragDrop(index)">
             <div
@@ -29,11 +31,11 @@
     const empties = Array.from({ length: 5 }, (_, index) => index)
 
     const imageUrls = [
-        'https://source.unsplash.com/random/150x150?nature=1',
-        'https://source.unsplash.com/random/150x150?city=1',
-        'https://source.unsplash.com/random/150x150?animal=1',
-        'https://source.unsplash.com/random/150x150?food=1',
-        'https://source.unsplash.com/random/150x150?portrait=1',
+        'https://picsum.photos/id/10/150/150',
+        'https://picsum.photos/id/11/150/150',
+        'https://picsum.photos/id/12/150/150',
+        'https://picsum.photos/id/13/150/150',
+        'https://picsum.photos/id/14/150/150',
     ]
 
     const dragStart = () => {
@@ -61,17 +63,7 @@
 </script>
 
 <style scoped>
-    .bg-steelblue {
-        background-color: steelblue;
-    }
-
     [draggable='true'] {
         transition: all 0.2s ease;
-    }
-
-    .hovered {
-        background-color: #333;
-        border-color: white;
-        border-style: dashed;
     }
 </style>
