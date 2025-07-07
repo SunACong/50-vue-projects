@@ -123,6 +123,11 @@ const routes = [
         name: 'DrawingApp',
         component: () => import('@/projects/DrawingApp.vue'),
     },
+    {
+        path: '/KineticLoader',
+        name: 'KineticLoader',
+        component: () => import('@/projects/KineticLoader.vue'),
+    },
 ]
 
 const router = createRouter({
