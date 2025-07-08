@@ -143,4 +143,10 @@ export const projectList = [
         image: 'https://50projects50days.com/img/projects-img/23-kinetic-loader.png',
         link: 'KineticLoader',
     },
+    {
+        id: 24,
+        title: 'Content Placeholder',
+        image: 'https://50projects50days.com/img/projects-img/24-content-placeholder.png',
+        link: 'ContentPlaceholder',
+    },
 ]

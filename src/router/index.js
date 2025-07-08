@@ -128,6 +128,11 @@ const routes = [
         name: 'KineticLoader',
         component: () => import('@/projects/KineticLoader.vue'),
     },
+    {
+        path: '/ContentPlaceholder',
+        name: 'ContentPlaceholder',
+        component: () => import('@/projects/ContentPlaceholder.vue'),
+    },
 ]
 
 const router = createRouter({

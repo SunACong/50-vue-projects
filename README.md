@@ -87,9 +87,12 @@ pnpm build
 | 19   | Theme Clock                   | ✅ 已完成 | `/projects/ThemeClock`                  |
 | 20   | Button Ripple Effect          | ✅ 已完成 | `/projects/ButtonRippleEffect`          |
 | 21   | Drag N Drop                   | ✅ 已完成 | `/projects/DragNDrop`                   |
-| 22   | Drawing App                   | 🚧 开发中 | `/projects/DrawingApp`                  |
+| 22   | Drawing App                   | ✅ 已完成 | `/projects/DrawingApp`                  |
+| 23   | Kinetic Loader                | ✅ 已完成 | `/projects/KineticLoader`               |
+| 24   | Content Placeholder           | ✅ 已完成 | `/projects/ContentPlaceholder`          |
+| 25   | Sticky Navbar                 | 🚧 开发中 | `/projects/StickyNavbar`                |
 
-| 22\~50 | ... | 🔜 敬请期待 | - |
+| 25\~50 | ... | 🔜 敬请期待 | - |
 
 > 🧱 每个项目都将作为独立页面进行展示，可在首页查看项目列表跳转。
 
