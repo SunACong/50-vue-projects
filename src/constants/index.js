@@ -149,4 +149,10 @@ export const projectList = [
         image: 'https://50projects50days.com/img/projects-img/24-content-placeholder.png',
         link: 'ContentPlaceholder',
     },
+    {
+        id: 25,
+        title: 'Sticky Navbar',
+        image: 'https://50projects50days.com/img/projects-img/25-sticky-navbar.png',
+        link: 'StickyNavbar',
+    },
 ]

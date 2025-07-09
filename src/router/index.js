@@ -133,6 +133,11 @@ const routes = [
         name: 'ContentPlaceholder',
         component: () => import('@/projects/ContentPlaceholder.vue'),
     },
+    {
+        path: '/StickyNavbar',
+        name: 'StickyNavbar',
+        component: () => import('@/projects/StickyNavbar.vue'),
+    },
 ]
 
 const router = createRouter({

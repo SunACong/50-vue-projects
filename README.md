@@ -90,9 +90,10 @@ pnpm build
 | 22   | Drawing App                   | ✅ 已完成 | `/projects/DrawingApp`                  |
 | 23   | Kinetic Loader                | ✅ 已完成 | `/projects/KineticLoader`               |
 | 24   | Content Placeholder           | ✅ 已完成 | `/projects/ContentPlaceholder`          |
-| 25   | Sticky Navbar                 | 🚧 开发中 | `/projects/StickyNavbar`                |
+| 25   | Sticky Navbar                 | ✅ 已完成 | `/projects/StickyNavbar`                |
+| 26   | Double Vertical Slider        | 🚧 开发中 | `/projects/DoubleVerticalSlider`        |
 
-| 25\~50 | ... | 🔜 敬请期待 | - |
+| 26\~50 | ... | 🔜 敬请期待 | - |
 
 > 🧱 每个项目都将作为独立页面进行展示，可在首页查看项目列表跳转。
 
