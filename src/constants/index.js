@@ -155,4 +155,16 @@ export const projectList = [
         image: 'https://50projects50days.com/img/projects-img/25-sticky-navbar.png',
         link: 'StickyNavbar',
     },
+    {
+        id: 26,
+        title: 'Double Vertical Slider',
+        image: 'https://50projects50days.com/img/projects-img/26-double-vertical-slider.png',
+        link: 'DoubleVerticalSlider',
+    },
+    {
+        id: 27,
+        title: 'Toast Notification',
+        image: 'https://50projects50days.com/img/projects-img/27-toast-notification.png',
+        link: 'ToastNotification',
+    },
 ]

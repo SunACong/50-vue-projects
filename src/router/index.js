@@ -138,6 +138,16 @@ const routes = [
         name: 'StickyNavbar',
         component: () => import('@/projects/StickyNavbar.vue'),
     },
+    {
+        path: '/DoubleVerticalSlider',
+        name: 'DoubleVerticalSlider',
+        component: () => import('@/projects/DoubleVerticalSlider.vue'),
+    },
+    {
+        path: '/ToastNotification',
+        name: 'ToastNotification',
+        component: () => import('@/projects/ToastNotification.vue'),
+    },
 ]
 
 const router = createRouter({
