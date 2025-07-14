@@ -91,9 +91,11 @@ pnpm build
 | 23   | Kinetic Loader                | ✅ 已完成 | `/projects/KineticLoader`               |
 | 24   | Content Placeholder           | ✅ 已完成 | `/projects/ContentPlaceholder`          |
 | 25   | Sticky Navbar                 | ✅ 已完成 | `/projects/StickyNavbar`                |
-| 26   | Double Vertical Slider        | 🚧 开发中 | `/projects/DoubleVerticalSlider`        |
+| 26   | Double Vertical Slider        | ✅ 已完成 | `/projects/DoubleVerticalSlider`        |
+| 27   | Toast Notification            | ✅ 已完成 | `/projects/ToastNotification`           |
+| 28   | Github Profiles               | 🚧 开发中 | `/projects/GithubProfiles`              |
 
-| 26\~50 | ... | 🔜 敬请期待 | - |
+| 28\~50 | ... | 🔜 敬请期待 | - |
 
 > 🧱 每个项目都将作为独立页面进行展示，可在首页查看项目列表跳转。
 
