@@ -148,6 +148,11 @@ const routes = [
         name: 'ToastNotification',
         component: () => import('@/projects/ToastNotification.vue'),
     },
+    {
+        path: '/GithubProfiles',
+        name: 'GithubProfiles',
+        component: () => import('@/projects/GithubProfiles.vue'),
+    },
 ]
 
 const router = createRouter({

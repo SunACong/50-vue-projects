@@ -167,4 +167,10 @@ export const projectList = [
         image: 'https://50projects50days.com/img/projects-img/27-toast-notification.png',
         link: 'ToastNotification',
     },
+    {
+        id: 28,
+        title: 'Github Profiles',
+        image: 'https://50projects50days.com/img/projects-img/28-github-profiles.png',
+        link: 'GithubProfiles',
+    },
 ]
