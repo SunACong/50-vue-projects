@@ -94,9 +94,10 @@ pnpm build
 | 26   | Double Vertical Slider        | ✅ 已完成 | `/projects/DoubleVerticalSlider`        |
 | 27   | Toast Notification            | ✅ 已完成 | `/projects/ToastNotification`           |
 | 28   | Github Profiles               | ✅ 已完成 | `/projects/GithubProfiles`              |
-| 29   | Double Click Heart            | 🚧 开发中 | `/projects/DoubleClickHeart`            |
+| 29   | Double Click Heart            | ✅ 已完成 | `/projects/DoubleClickHeart`            |
+| 30   | Auto Text Effect              | 🚧 开发中 | `/projects/AutoTextEffect`              |
 
-| 29\~50 | ... | 🔜 敬请期待 | - |
+| 30\~50 | ... | 🔜 敬请期待 | - |
 
 > 🧱 每个项目都将作为独立页面进行展示，可在首页查看项目列表跳转。
 

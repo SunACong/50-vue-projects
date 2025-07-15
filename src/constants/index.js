@@ -173,4 +173,10 @@ export const projectList = [
         image: 'https://50projects50days.com/img/projects-img/28-github-profiles.png',
         link: 'GithubProfiles',
     },
+    {
+        id: 29,
+        title: 'Double Click Heart',
+        image: 'https://50projects50days.com/img/projects-img/29-double-click-heart.png',
+        link: 'DoubleClickHeart',
+    },
 ]

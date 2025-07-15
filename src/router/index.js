@@ -153,6 +153,11 @@ const routes = [
         name: 'GithubProfiles',
         component: () => import('@/projects/GithubProfiles.vue'),
     },
+    {
+        path: '/DoubleClickHeart',
+        name: 'DoubleClickHeart',
+        component: () => import('@/projects/DoubleClickHeart.vue'),
+    },
 ]
 
 const router = createRouter({
