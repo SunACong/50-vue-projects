@@ -163,6 +163,11 @@ const routes = [
         name: 'AutoTextEffect',
         component: () => import('@/projects/AutoTextEffect.vue'),
     },
+    {
+        path: '/PasswordGenerator',
+        name: 'PasswordGenerator',
+        component: () => import('@/projects/PasswordGenerator.vue'),
+    },
 ]
 
 const router = createRouter({

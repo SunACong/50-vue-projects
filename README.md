@@ -96,7 +96,8 @@ pnpm build
 | 28   | Github Profiles               | ✅ 已完成 | `/projects/GithubProfiles`              |
 | 29   | Double Click Heart            | ✅ 已完成 | `/projects/DoubleClickHeart`            |
 | 30   | Auto Text Effect              | ✅ 已完成 | `/projects/AutoTextEffect`              |
-| 31   | Password Generator            | 🚧 开发中 | `/projects/PasswordGenerator`           |
+| 31   | Password Generator            | ✅ 已完成 | `/projects/PasswordGenerator`           |
+| 32   | Good Cheap Fast               | 🚧 开发中 | `/projects/GoodCheapFast`               |
 
 | 31\~50 | ... | 🔜 敬请期待 | - |
 

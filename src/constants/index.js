@@ -185,4 +185,10 @@ export const projectList = [
         image: 'https://50projects50days.com/img/projects-img/30-auto-text-effect.png',
         link: 'AutoTextEffect',
     },
+    {
+        id: 31,
+        title: 'Password Generator',
+        image: 'https://50projects50days.com/img/projects-img/31-password-generator.png',
+        link: 'PasswordGenerator',
+    },
 ]
