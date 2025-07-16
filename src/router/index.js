@@ -158,6 +158,11 @@ const routes = [
         name: 'DoubleClickHeart',
         component: () => import('@/projects/DoubleClickHeart.vue'),
     },
+    {
+        path: '/AutoTextEffect',
+        name: 'AutoTextEffect',
+        component: () => import('@/projects/AutoTextEffect.vue'),
+    },
 ]
 
 const router = createRouter({

@@ -179,4 +179,10 @@ export const projectList = [
         image: 'https://50projects50days.com/img/projects-img/29-double-click-heart.png',
         link: 'DoubleClickHeart',
     },
+    {
+        id: 30,
+        title: 'Auto Text Effect',
+        image: 'https://50projects50days.com/img/projects-img/30-auto-text-effect.png',
+        link: 'AutoTextEffect',
+    },
 ]

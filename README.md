@@ -95,9 +95,10 @@ pnpm build
 | 27   | Toast Notification            | ✅ 已完成 | `/projects/ToastNotification`           |
 | 28   | Github Profiles               | ✅ 已完成 | `/projects/GithubProfiles`              |
 | 29   | Double Click Heart            | ✅ 已完成 | `/projects/DoubleClickHeart`            |
-| 30   | Auto Text Effect              | 🚧 开发中 | `/projects/AutoTextEffect`              |
+| 30   | Auto Text Effect              | ✅ 已完成 | `/projects/AutoTextEffect`              |
+| 31   | Password Generator            | 🚧 开发中 | `/projects/PasswordGenerator`           |
 
-| 30\~50 | ... | 🔜 敬请期待 | - |
+| 31\~50 | ... | 🔜 敬请期待 | - |
 
 > 🧱 每个项目都将作为独立页面进行展示，可在首页查看项目列表跳转。
 
