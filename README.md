@@ -97,9 +97,10 @@ pnpm build
 | 29   | Double Click Heart            | ✅ 已完成 | `/projects/DoubleClickHeart`            |
 | 30   | Auto Text Effect              | ✅ 已完成 | `/projects/AutoTextEffect`              |
 | 31   | Password Generator            | ✅ 已完成 | `/projects/PasswordGenerator`           |
-| 32   | Good Cheap Fast               | 🚧 开发中 | `/projects/GoodCheapFast`               |
+| 32   | Good Cheap Fast               | ✅ 已完成 | `/projects/GoodCheapFast`               |
+| 33   | Notes App                     | 🚧 开发中 | `/projects/NotesApp`                    |
 
-| 31\~50 | ... | 🔜 敬请期待 | - |
+| 33\~50 | ... | 🔜 敬请期待 | - |
 
 > 🧱 每个项目都将作为独立页面进行展示，可在首页查看项目列表跳转。
 

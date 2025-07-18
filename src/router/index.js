@@ -168,6 +168,11 @@ const routes = [
         name: 'PasswordGenerator',
         component: () => import('@/projects/PasswordGenerator.vue'),
     },
+    {
+        path: '/GoodCheapFast',
+        name: 'GoodCheapFast',
+        component: () => import('@/projects/GoodCheapFast.vue'),
+    },
 ]
 
 const router = createRouter({

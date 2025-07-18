@@ -191,4 +191,10 @@ export const projectList = [
         image: 'https://50projects50days.com/img/projects-img/31-password-generator.png',
         link: 'PasswordGenerator',
     },
+    {
+        id: 32,
+        title: 'Good Cheap Fast',
+        image: 'https://50projects50days.com/img/projects-img/32-good-cheap-fast.png',
+        link: 'GoodCheapFast',
+    },
 ]
