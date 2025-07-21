@@ -173,6 +173,11 @@ const routes = [
         name: 'GoodCheapFast',
         component: () => import('@/projects/GoodCheapFast.vue'),
     },
+    {
+        path: '/NotesApp',
+        name: 'NotesApp',
+        component: () => import('@/projects/NotesApp.vue'),
+    },
 ]
 
 const router = createRouter({

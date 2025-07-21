@@ -197,4 +197,10 @@ export const projectList = [
         image: 'https://50projects50days.com/img/projects-img/32-good-cheap-fast.png',
         link: 'GoodCheapFast',
     },
+    {
+        id: 33,
+        title: 'Notes App',
+        image: 'https://50projects50days.com/img/projects-img/33-notes-app.png',
+        link: 'NotesApp',
+    },
 ]
