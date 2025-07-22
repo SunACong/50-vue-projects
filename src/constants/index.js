@@ -203,4 +203,10 @@ export const projectList = [
         image: 'https://50projects50days.com/img/projects-img/33-notes-app.png',
         link: 'NotesApp',
     },
+    {
+        id: 34,
+        title: 'Animated Countdown',
+        image: 'https://50projects50days.com/img/projects-img/34-animated-countdown.png',
+        link: 'AnimatedCountdown',
+    },
 ]

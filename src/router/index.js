@@ -178,6 +178,11 @@ const routes = [
         name: 'NotesApp',
         component: () => import('@/projects/NotesApp.vue'),
     },
+    {
+        path: '/AnimatedCountdown',
+        name: 'AnimatedCountdown',
+        component: () => import('@/projects/AnimatedCountdown.vue'),
+    },
 ]
 
 const router = createRouter({
