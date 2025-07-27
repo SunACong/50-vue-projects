@@ -234,6 +234,11 @@ const routes = [
         name: 'RangeSlider',
         component: () => import('@/projects/RangeSlider.vue'),
     },
+    {
+        path: '/NetflixMobileNavigation',
+        name: 'NetflixMobileNavigation',
+        component: () => import('@/projects/NetflixMobileNavigation.vue'),
+    },
 ]
 
 const router = createRouter({

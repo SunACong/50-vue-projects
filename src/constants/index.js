@@ -269,4 +269,10 @@ export const projectList = [
         image: 'https://50projects50days.com/img/projects-img/44-range-slider.png',
         link: 'RangeSlider',
     },
+    {
+        id: 45,
+        title: 'NetflixMobileNavigation',
+        image: 'https://50projects50days.com/img/projects-img/45-netflix-mobile-navigation.png',
+        link: 'NetflixMobileNavigation',
+    },
 ]
