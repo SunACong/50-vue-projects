@@ -218,6 +218,11 @@ const routes = [
         name: 'VerifyAccountUi',
         component: () => import('@/projects/VerifyAccountUi.vue'),
     },
+    {
+        path: '/LiveUserFilter',
+        name: 'LiveUserFilter',
+        component: () => import('@/projects/LiveUserFilter.vue'),
+    },
 ]
 
 const router = createRouter({

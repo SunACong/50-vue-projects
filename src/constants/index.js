@@ -251,4 +251,10 @@ export const projectList = [
         image: 'https://50projects50days.com/img/projects-img/41-verify-account-ui.png',
         link: 'VerifyAccountUi',
     },
+    {
+        id: 42,
+        title: 'LiveUserFilter',
+        image: 'https://50projects50days.com/img/projects-img/42-live-user-filter.png',
+        link: 'LiveUserFilter',
+    },
 ]
