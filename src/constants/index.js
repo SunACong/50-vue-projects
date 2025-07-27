@@ -266,7 +266,7 @@ export const projectList = [
     {
         id: 44,
         title: 'RangeSlider',
-        image: 'https://50projects50days.com/img/projects-img/44-range-slider.png',
+        image: 'https://50projects50days.com/img/projects-img/44-custom-range-slider.png',
         link: 'RangeSlider',
     },
     {
@@ -280,5 +280,11 @@ export const projectList = [
         title: 'QuizApp',
         image: 'https://50projects50days.com/img/projects-img/46-quiz-app.png',
         link: 'QuizApp',
+    },
+    {
+        id: 47,
+        title: 'TestimonialBoxSwitcher',
+        image: 'https://50projects50days.com/img/projects-img/47-testimonial-box-switcher.png',
+        link: 'TestimonialBoxSwitcher',
     },
 ]

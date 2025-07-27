@@ -112,7 +112,8 @@ pnpm build
 | 44   | RangeSlider                   | ✅ 已完成   | `/projects/RangeSlider`                 |
 | 45   | NetflixMobileNavigation       | ✅ 已完成   | `/projects/NetflixMobileNavigation`     |
 | 46   | QuizApp                       | ✅ 已完成   | `/projects/QuizApp`                     |
-| 47   | TestimonialBoxSwitcher        | 🔜 敬请期待 | `/projects/TestimonialBoxSwitcher`      |
+| 47   | TestimonialBoxSwitcher        | ✅ 已完成   | `/projects/TestimonialBoxSwitcher`      |
+| 48   | RandomImageFeed               | 🔜 敬请期待 | `/projects/RandomImageFeed`             |
 
 | 38\~50 | ... | 🔜 敬请期待 | - |
 

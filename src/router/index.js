@@ -244,6 +244,11 @@ const routes = [
         name: 'QuizApp',
         component: () => import('@/projects/QuizApp.vue'),
     },
+    {
+        path: '/TestimonialBoxSwitcher',
+        name: 'TestimonialBoxSwitcher',
+        component: () => import('@/projects/TestimonialBoxSwitcher.vue'),
+    },
 ]
 
 const router = createRouter({
