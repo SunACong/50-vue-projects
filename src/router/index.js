@@ -188,6 +188,11 @@ const routes = [
         name: 'ImageCarousel',
         component: () => import('@/projects/ImageCarousel.vue'),
     },
+    {
+        path: '/Hoverboard',
+        name: 'Hoverboard',
+        component: () => import('@/projects/Hoverboard.vue'),
+    },
 ]
 
 const router = createRouter({

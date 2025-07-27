@@ -215,4 +215,10 @@ export const projectList = [
         image: 'https://50projects50days.com/img/projects-img/35-image-carousel.png',
         link: 'ImageCarousel',
     },
+    {
+        id: 36,
+        title: 'Hoverboard',
+        image: 'https://50projects50days.com/img/projects-img/36-hoverboard.png',
+        link: 'Hoverboard',
+    },
 ]
