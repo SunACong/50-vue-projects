@@ -106,7 +106,8 @@ pnpm build
 | 38   | MobileTabNavigation           | ✅ 已完成   | `/projects/MobileTabNavigation`         |
 | 39   | PasswordStrengthBackground    | ✅ 已完成   | `/projects/PasswordStrengthBackground`  |
 | 40   | 3dBackgroundBoxes             | ✅ 已完成   | `/projects/3dBackgroundBoxes`           |
-| 41   | VerifyAccountUi               | 🔜 敬请期待 | `/projects/VerifyAccountUi`             |
+| 41   | VerifyAccountUi               | ✅ 已完成   | `/projects/VerifyAccountUi`             |
+| 42   | LiveUserFilter                | 🔜 敬请期待 | `/projects/LiveUserFilter`              |
 
 | 38\~50 | ... | 🔜 敬请期待 | - |
 

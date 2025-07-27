@@ -245,4 +245,10 @@ export const projectList = [
         image: 'https://50projects50days.com/img/projects-img/40-3d-background-boxes.png',
         link: '3dBackgroundBoxes',
     },
+    {
+        id: 41,
+        title: 'VerifyAccountUi',
+        image: 'https://50projects50days.com/img/projects-img/41-verify-account-ui.png',
+        link: 'VerifyAccountUi',
+    },
 ]

@@ -213,6 +213,11 @@ const routes = [
         name: '3dBackgroundBoxes',
         component: () => import('@/projects/3dBackgroundBoxes.vue'),
     },
+    {
+        path: '/VerifyAccountUi',
+        name: 'VerifyAccountUi',
+        component: () => import('@/projects/VerifyAccountUi.vue'),
+    },
 ]
 
 const router = createRouter({
