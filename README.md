@@ -109,7 +109,8 @@ pnpm build
 | 41   | VerifyAccountUi               | ✅ 已完成   | `/projects/VerifyAccountUi`             |
 | 42   | LiveUserFilter                | ✅ 已完成   | `/projects/LiveUserFilter`              |
 | 43   | Feedback Ui Design            | ✅ 已完成   | `/projects/FeedbackUiDesign`            |
-| 44   | RangeSlider                   | 🔜 敬请期待 | `/projects/RangeSlider`                 |
+| 44   | RangeSlider                   | ✅ 已完成   | `/projects/RangeSlider`                 |
+| 45   | NetflixMobileNavigation       | 🔜 敬请期待 | `/projects/NetflixMobileNavigation`     |
 
 | 38\~50 | ... | 🔜 敬请期待 | - |
 

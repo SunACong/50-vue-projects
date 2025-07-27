@@ -1,6 +1,7 @@
 import { createWebHistory, createRouter } from 'vue-router'
 
 import ExpandingCards from '@/projects/ExpandingCards.vue'
+import { compile } from 'vue'
 
 const routes = [
     {
@@ -227,6 +228,11 @@ const routes = [
         path: '/FeedbackUiDesign',
         name: 'FeedbackUiDesign',
         component: () => import('@/projects/FeedbackUiDesign.vue'),
+    },
+    {
+        path: '/RangeSlider',
+        name: 'RangeSlider',
+        component: () => import('@/projects/RangeSlider.vue'),
     },
 ]
 

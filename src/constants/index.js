@@ -263,4 +263,10 @@ export const projectList = [
         image: 'https://50projects50days.com/img/projects-img/43-feedback-ui-design.png',
         link: 'FeedbackUiDesign',
     },
+    {
+        id: 44,
+        title: 'RangeSlider',
+        image: 'https://50projects50days.com/img/projects-img/44-range-slider.png',
+        link: 'RangeSlider',
+    },
 ]
