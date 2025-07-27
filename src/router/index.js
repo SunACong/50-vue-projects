@@ -208,6 +208,11 @@ const routes = [
         name: 'PasswordStrengthBackground',
         component: () => import('@/projects/PasswordStrengthBackground.vue'),
     },
+    {
+        path: '/3dBackgroundBoxes',
+        name: '3dBackgroundBoxes',
+        component: () => import('@/projects/3dBackgroundBoxes.vue'),
+    },
 ]
 
 const router = createRouter({

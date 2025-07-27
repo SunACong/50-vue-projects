@@ -64,48 +64,49 @@ pnpm build
 
 ## 📦 项目进度
 
-| 编号 | 项目名称                      | 状态      | 路由地址                                |
-| ---- | ----------------------------- | --------- | --------------------------------------- |
-| 1    | Expanding Cards               | ✅ 已完成 | `/projects/ExpandingCards`              |
-| 2    | Progress Steps                | ✅ 已完成 | `/projects/ProgressSteps`               |
-| 3    | Hidden Search Widget          | ✅ 已完成 | `/projects/HiddenSearchWidget`          |
-| 4    | Rotating Navigation Animation | ✅ 已完成 | `/projects/RotatingNavigationAnimation` |
-| 5    | Blurry Loading                | ✅ 已完成 | `/projects/BlurryLoading`               |
-| 6    | Scroll Animation              | ✅ 已完成 | `/projects/ScrollAnimation`             |
-| 7    | Split Landing Page            | ✅ 已完成 | `/projects/SplitLandingPage`            |
-| 8    | Form Wave                     | ✅ 已完成 | `/projects/FormWave`                    |
-| 9    | Sound Board                   | ✅ 已完成 | `/projects/SoundBoard`                  |
-| 10   | Dad Jokes                     | ✅ 已完成 | `/projects/DadJokes`                    |
-| 11   | Event Keycodes                | ✅ 已完成 | `/projects/EventKeycodes`               |
-| 12   | FAQ Collapse                  | ✅ 已完成 | `/projects/FAQCollapse`                 |
-| 13   | Random Choice Picker          | ✅ 已完成 | `/projects/RandomChoicePicker`          |
-| 14   | Animated Navigation           | ✅ 已完成 | `/projects/AnimatedNavigation`          |
-| 15   | Incrementing Counter          | ✅ 已完成 | `/projects/IncrementingCounter`         |
-| 16   | Drink Water                   | ✅ 已完成 | `/projects/DrinkWater`                  |
-| 17   | Movie App                     | ✅ 已完成 | `/projects/MovieApp`                    |
-| 18   | Background Slider             | ✅ 已完成 | `/projects/BackgroundSlider`            |
-| 19   | Theme Clock                   | ✅ 已完成 | `/projects/ThemeClock`                  |
-| 20   | Button Ripple Effect          | ✅ 已完成 | `/projects/ButtonRippleEffect`          |
-| 21   | Drag N Drop                   | ✅ 已完成 | `/projects/DragNDrop`                   |
-| 22   | Drawing App                   | ✅ 已完成 | `/projects/DrawingApp`                  |
-| 23   | Kinetic Loader                | ✅ 已完成 | `/projects/KineticLoader`               |
-| 24   | Content Placeholder           | ✅ 已完成 | `/projects/ContentPlaceholder`          |
-| 25   | Sticky Navbar                 | ✅ 已完成 | `/projects/StickyNavbar`                |
-| 26   | Double Vertical Slider        | ✅ 已完成 | `/projects/DoubleVerticalSlider`        |
-| 27   | Toast Notification            | ✅ 已完成 | `/projects/ToastNotification`           |
-| 28   | Github Profiles               | ✅ 已完成 | `/projects/GithubProfiles`              |
-| 29   | Double Click Heart            | ✅ 已完成 | `/projects/DoubleClickHeart`            |
-| 30   | Auto Text Effect              | ✅ 已完成 | `/projects/AutoTextEffect`              |
-| 31   | Password Generator            | ✅ 已完成 | `/projects/PasswordGenerator`           |
-| 32   | Good Cheap Fast               | ✅ 已完成 | `/projects/GoodCheapFast`               |
-| 33   | Notes App                     | ✅ 已完成 | `/projects/NotesApp`                    |
-| 34   | Animated Countdown            | ✅ 已完成 | `/projects/AnimatedCountdown`           |
-| 35   | Image Carousel                | ✅ 已完成 | `/projects/ImageCarousel`               |
-| 36   | Hoverboard                    | ✅ 已完成 | `/projects/Hoverboard`                  |
-| 37   | Pokedex                       | ✅ 已完成 | `/projects/Pokedex`                     |
-| 38   | MobileTabNavigation           | ✅ 已完成 | `/projects/MobileTabNavigation`         |
-| 39   | PasswordStrengthBackground    | ✅ 已完成 | `/projects/PasswordStrengthBackground`  |
-| 40   | 3dBackgroundBoxes             | 🚧 开发中 | `/projects/3dBackgroundBoxes`           |
+| 编号 | 项目名称                      | 状态        | 路由地址                                |
+| ---- | ----------------------------- | ----------- | --------------------------------------- |
+| 1    | Expanding Cards               | ✅ 已完成   | `/projects/ExpandingCards`              |
+| 2    | Progress Steps                | ✅ 已完成   | `/projects/ProgressSteps`               |
+| 3    | Hidden Search Widget          | ✅ 已完成   | `/projects/HiddenSearchWidget`          |
+| 4    | Rotating Navigation Animation | ✅ 已完成   | `/projects/RotatingNavigationAnimation` |
+| 5    | Blurry Loading                | ✅ 已完成   | `/projects/BlurryLoading`               |
+| 6    | Scroll Animation              | ✅ 已完成   | `/projects/ScrollAnimation`             |
+| 7    | Split Landing Page            | ✅ 已完成   | `/projects/SplitLandingPage`            |
+| 8    | Form Wave                     | ✅ 已完成   | `/projects/FormWave`                    |
+| 9    | Sound Board                   | ✅ 已完成   | `/projects/SoundBoard`                  |
+| 10   | Dad Jokes                     | ✅ 已完成   | `/projects/DadJokes`                    |
+| 11   | Event Keycodes                | ✅ 已完成   | `/projects/EventKeycodes`               |
+| 12   | FAQ Collapse                  | ✅ 已完成   | `/projects/FAQCollapse`                 |
+| 13   | Random Choice Picker          | ✅ 已完成   | `/projects/RandomChoicePicker`          |
+| 14   | Animated Navigation           | ✅ 已完成   | `/projects/AnimatedNavigation`          |
+| 15   | Incrementing Counter          | ✅ 已完成   | `/projects/IncrementingCounter`         |
+| 16   | Drink Water                   | ✅ 已完成   | `/projects/DrinkWater`                  |
+| 17   | Movie App                     | ✅ 已完成   | `/projects/MovieApp`                    |
+| 18   | Background Slider             | ✅ 已完成   | `/projects/BackgroundSlider`            |
+| 19   | Theme Clock                   | ✅ 已完成   | `/projects/ThemeClock`                  |
+| 20   | Button Ripple Effect          | ✅ 已完成   | `/projects/ButtonRippleEffect`          |
+| 21   | Drag N Drop                   | ✅ 已完成   | `/projects/DragNDrop`                   |
+| 22   | Drawing App                   | ✅ 已完成   | `/projects/DrawingApp`                  |
+| 23   | Kinetic Loader                | ✅ 已完成   | `/projects/KineticLoader`               |
+| 24   | Content Placeholder           | ✅ 已完成   | `/projects/ContentPlaceholder`          |
+| 25   | Sticky Navbar                 | ✅ 已完成   | `/projects/StickyNavbar`                |
+| 26   | Double Vertical Slider        | ✅ 已完成   | `/projects/DoubleVerticalSlider`        |
+| 27   | Toast Notification            | ✅ 已完成   | `/projects/ToastNotification`           |
+| 28   | Github Profiles               | ✅ 已完成   | `/projects/GithubProfiles`              |
+| 29   | Double Click Heart            | ✅ 已完成   | `/projects/DoubleClickHeart`            |
+| 30   | Auto Text Effect              | ✅ 已完成   | `/projects/AutoTextEffect`              |
+| 31   | Password Generator            | ✅ 已完成   | `/projects/PasswordGenerator`           |
+| 32   | Good Cheap Fast               | ✅ 已完成   | `/projects/GoodCheapFast`               |
+| 33   | Notes App                     | ✅ 已完成   | `/projects/NotesApp`                    |
+| 34   | Animated Countdown            | ✅ 已完成   | `/projects/AnimatedCountdown`           |
+| 35   | Image Carousel                | ✅ 已完成   | `/projects/ImageCarousel`               |
+| 36   | Hoverboard                    | ✅ 已完成   | `/projects/Hoverboard`                  |
+| 37   | Pokedex                       | ✅ 已完成   | `/projects/Pokedex`                     |
+| 38   | MobileTabNavigation           | ✅ 已完成   | `/projects/MobileTabNavigation`         |
+| 39   | PasswordStrengthBackground    | ✅ 已完成   | `/projects/PasswordStrengthBackground`  |
+| 40   | 3dBackgroundBoxes             | ✅ 已完成   | `/projects/3dBackgroundBoxes`           |
+| 41   | VerifyAccountUi               | 🔜 敬请期待 | `/projects/VerifyAccountUi`             |
 
 | 38\~50 | ... | 🔜 敬请期待 | - |
 
