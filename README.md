@@ -103,7 +103,8 @@ pnpm build
 | 35   | Image Carousel                | ✅ 已完成 | `/projects/ImageCarousel`               |
 | 36   | Hoverboard                    | ✅ 已完成 | `/projects/Hoverboard`                  |
 | 37   | Pokedex                       | ✅ 已完成 | `/projects/Pokedex`                     |
-| 38   | MobileTabNavigation           | 🚧 开发中 | `/projects/MobileTabNavigation`         |
+| 38   | MobileTabNavigation           | ✅ 已完成 | `/projects/MobileTabNavigation`         |
+| 39   | PasswordStrengthBackground    | 🚧 开发中 | `/projects/PasswordStrengthBackground`  |
 
 | 38\~50 | ... | 🔜 敬请期待 | - |
 

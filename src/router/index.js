@@ -198,6 +198,11 @@ const routes = [
         name: 'Pokedex',
         component: () => import('@/projects/Pokedex.vue'),
     },
+    {
+        path: '/MobileTabNavigation',
+        name: 'MobileTabNavigation',
+        component: () => import('@/projects/MobileTabNavigation.vue'),
+    },
 ]
 
 const router = createRouter({
