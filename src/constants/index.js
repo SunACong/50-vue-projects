@@ -275,4 +275,10 @@ export const projectList = [
         image: 'https://50projects50days.com/img/projects-img/45-netflix-mobile-navigation.png',
         link: 'NetflixMobileNavigation',
     },
+    {
+        id: 46,
+        title: 'QuizApp',
+        image: 'https://50projects50days.com/img/projects-img/46-quiz-app.png',
+        link: 'QuizApp',
+    },
 ]

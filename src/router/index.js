@@ -239,6 +239,11 @@ const routes = [
         name: 'NetflixMobileNavigation',
         component: () => import('@/projects/NetflixMobileNavigation.vue'),
     },
+    {
+        path: '/QuizApp',
+        name: 'QuizApp',
+        component: () => import('@/projects/QuizApp.vue'),
+    },
 ]
 
 const router = createRouter({

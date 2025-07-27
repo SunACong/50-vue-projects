@@ -111,7 +111,8 @@ pnpm build
 | 43   | Feedback Ui Design            | ✅ 已完成   | `/projects/FeedbackUiDesign`            |
 | 44   | RangeSlider                   | ✅ 已完成   | `/projects/RangeSlider`                 |
 | 45   | NetflixMobileNavigation       | ✅ 已完成   | `/projects/NetflixMobileNavigation`     |
-| 46   | QuizApp                       | 🔜 敬请期待 | `/projects/QuizApp`                     |
+| 46   | QuizApp                       | ✅ 已完成   | `/projects/QuizApp`                     |
+| 47   | TestimonialBoxSwitcher        | 🔜 敬请期待 | `/projects/TestimonialBoxSwitcher`      |
 
 | 38\~50 | ... | 🔜 敬请期待 | - |
 
