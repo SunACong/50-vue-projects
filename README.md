@@ -114,7 +114,8 @@ pnpm build
 | 46   | QuizApp                       | ✅ 已完成   | `/projects/QuizApp`                     |
 | 47   | TestimonialBoxSwitcher        | ✅ 已完成   | `/projects/TestimonialBoxSwitcher`      |
 | 48   | RandomImageGenerator          | ✅ 已完成   | `/projects/RandomImageGenerator`        |
-| 49   | TodoList                      | 🔜 敬请期待 | `/projects/TodoList`                    |
+| 49   | TodoList                      | ✅ 已完成   | `/projects/TodoList`                    |
+| 50   | InsectCatchGame               | 🔜 敬请期待 | `/projects/InsectCatchGame`             |
 
 > 🧱 每个项目都将作为独立页面进行展示，可在首页查看项目列表跳转。
 

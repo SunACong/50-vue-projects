@@ -254,6 +254,11 @@ const routes = [
         name: 'RandomImageGenerator',
         component: () => import('@/projects/RandomImageGenerator.vue'),
     },
+    {
+        path: '/TodoList',
+        name: 'TodoList',
+        component: () => import('@/projects/TodoList.vue'),
+    },
 ]
 
 const router = createRouter({

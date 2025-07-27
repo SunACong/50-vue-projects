@@ -290,7 +290,13 @@ export const projectList = [
     {
         id: 48,
         title: 'RandomImageGenerator',
-        image: '	https://50projects50days.com/img/projects-img/48-random-image-feed.png',
+        image: 'https://50projects50days.com/img/projects-img/48-random-image-feed.png',
         link: 'RandomImageGenerator',
+    },
+    {
+        id: 49,
+        title: 'TodoList',
+        image: 'https://50projects50days.com/img/projects-img/49-todo-list.png',
+        link: 'TodoList',
     },
 ]
