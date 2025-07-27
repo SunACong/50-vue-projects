@@ -99,8 +99,9 @@ pnpm build
 | 31   | Password Generator            | ✅ 已完成 | `/projects/PasswordGenerator`           |
 | 32   | Good Cheap Fast               | ✅ 已完成 | `/projects/GoodCheapFast`               |
 | 33   | Notes App                     | ✅ 已完成 | `/projects/NotesApp`                    |
-| 34   | Animated Countdown            | 🚧 开发中 | `/projects/AnimatedCountdown`           |
-| 35   | Image Carousel                | 🚧 开发中 | `/projects/ImageCarousel`               |
+| 34   | Animated Countdown            | ✅ 已完成 | `/projects/AnimatedCountdown`           |
+| 35   | Image Carousel                | ✅ 已完成 | `/projects/ImageCarousel`               |
+| 36   | Verify Account Ui             | 🚧 开发中 | `/projects/VerifyAccountUi`             |
 
 | 33\~50 | ... | 🔜 敬请期待 | - |
 

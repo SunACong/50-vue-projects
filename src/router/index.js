@@ -183,6 +183,11 @@ const routes = [
         name: 'AnimatedCountdown',
         component: () => import('@/projects/AnimatedCountdown.vue'),
     },
+    {
+        path: '/ImageCarousel',
+        name: 'ImageCarousel',
+        component: () => import('@/projects/ImageCarousel.vue'),
+    },
 ]
 
 const router = createRouter({

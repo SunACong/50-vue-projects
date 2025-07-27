@@ -209,4 +209,10 @@ export const projectList = [
         image: 'https://50projects50days.com/img/projects-img/34-animated-countdown.png',
         link: 'AnimatedCountdown',
     },
+    {
+        id: 35,
+        title: 'Image Carousel',
+        image: 'https://50projects50days.com/img/projects-img/35-image-carousel.png',
+        link: 'ImageCarousel',
+    },
 ]
