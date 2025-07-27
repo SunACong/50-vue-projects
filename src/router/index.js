@@ -203,6 +203,11 @@ const routes = [
         name: 'MobileTabNavigation',
         component: () => import('@/projects/MobileTabNavigation.vue'),
     },
+    {
+        path: '/PasswordStrengthBackground',
+        name: 'PasswordStrengthBackground',
+        component: () => import('@/projects/PasswordStrengthBackground.vue'),
+    },
 ]
 
 const router = createRouter({

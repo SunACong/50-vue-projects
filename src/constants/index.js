@@ -233,4 +233,10 @@ export const projectList = [
         image: 'https://50projects50days.com/img/projects-img/38-mobile-tab-navigation.png',
         link: 'MobileTabNavigation',
     },
+    {
+        id: 39,
+        title: 'PasswordStrengthBackground',
+        image: 'https://50projects50days.com/img/projects-img/39-password-strength-background.png',
+        link: 'PasswordStrengthBackground',
+    },
 ]

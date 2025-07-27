@@ -104,7 +104,8 @@ pnpm build
 | 36   | Hoverboard                    | ✅ 已完成 | `/projects/Hoverboard`                  |
 | 37   | Pokedex                       | ✅ 已完成 | `/projects/Pokedex`                     |
 | 38   | MobileTabNavigation           | ✅ 已完成 | `/projects/MobileTabNavigation`         |
-| 39   | PasswordStrengthBackground    | 🚧 开发中 | `/projects/PasswordStrengthBackground`  |
+| 39   | PasswordStrengthBackground    | ✅ 已完成 | `/projects/PasswordStrengthBackground`  |
+| 40   | 3dBackgroundBoxes             | 🚧 开发中 | `/projects/3dBackgroundBoxes`           |
 
 | 38\~50 | ... | 🔜 敬请期待 | - |
 
