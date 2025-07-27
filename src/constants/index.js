@@ -287,4 +287,10 @@ export const projectList = [
         image: 'https://50projects50days.com/img/projects-img/47-testimonial-box-switcher.png',
         link: 'TestimonialBoxSwitcher',
     },
+    {
+        id: 48,
+        title: 'RandomImageGenerator',
+        image: '	https://50projects50days.com/img/projects-img/48-random-image-feed.png',
+        link: 'RandomImageGenerator',
+    },
 ]

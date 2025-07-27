@@ -249,6 +249,11 @@ const routes = [
         name: 'TestimonialBoxSwitcher',
         component: () => import('@/projects/TestimonialBoxSwitcher.vue'),
     },
+    {
+        path: '/RandomImageGenerator',
+        name: 'RandomImageGenerator',
+        component: () => import('@/projects/RandomImageGenerator.vue'),
+    },
 ]
 
 const router = createRouter({
