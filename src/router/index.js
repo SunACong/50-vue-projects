@@ -223,6 +223,11 @@ const routes = [
         name: 'LiveUserFilter',
         component: () => import('@/projects/LiveUserFilter.vue'),
     },
+    {
+        path: '/FeedbackUiDesign',
+        name: 'FeedbackUiDesign',
+        component: () => import('@/projects/FeedbackUiDesign.vue'),
+    },
 ]
 
 const router = createRouter({

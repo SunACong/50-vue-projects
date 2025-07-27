@@ -108,7 +108,8 @@ pnpm build
 | 40   | 3dBackgroundBoxes             | ✅ 已完成   | `/projects/3dBackgroundBoxes`           |
 | 41   | VerifyAccountUi               | ✅ 已完成   | `/projects/VerifyAccountUi`             |
 | 42   | LiveUserFilter                | ✅ 已完成   | `/projects/LiveUserFilter`              |
-| 43   | Feedback Ui Design            | 🔜 敬请期待 | `/projects/FeedbackUiDesign`            |
+| 43   | Feedback Ui Design            | ✅ 已完成   | `/projects/FeedbackUiDesign`            |
+| 44   | RangeSlider                   | 🔜 敬请期待 | `/projects/RangeSlider`                 |
 
 | 38\~50 | ... | 🔜 敬请期待 | - |
 

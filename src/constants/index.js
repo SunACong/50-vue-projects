@@ -257,4 +257,10 @@ export const projectList = [
         image: 'https://50projects50days.com/img/projects-img/42-live-user-filter.png',
         link: 'LiveUserFilter',
     },
+    {
+        id: 43,
+        title: 'FeedbackUiDesign',
+        image: 'https://50projects50days.com/img/projects-img/43-feedback-ui-design.png',
+        link: 'FeedbackUiDesign',
+    },
 ]
