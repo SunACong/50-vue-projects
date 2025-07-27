@@ -259,6 +259,11 @@ const routes = [
         name: 'TodoList',
         component: () => import('@/projects/TodoList.vue'),
     },
+    {
+        path: '/InsectCatchGame',
+        name: 'InsectCatchGame',
+        component: () => import('@/projects/InsectCatchGame.vue'),
+    },
 ]
 
 const router = createRouter({

@@ -1,7 +1,7 @@
 export const navList = [
     { id: 1, title: 'Home', link: '#Home' },
     { id: 2, title: 'Peoject', link: '#Projects' },
-    { id: 3, title: 'About', link: '#About' },
+    { id: 3, title: 'About', link: '#Bottom' },
 ]
 
 export const projectList = [
@@ -298,5 +298,11 @@ export const projectList = [
         title: 'TodoList',
         image: 'https://50projects50days.com/img/projects-img/49-todo-list.png',
         link: 'TodoList',
+    },
+    {
+        id: 50,
+        title: 'InsectCatchGame',
+        image: 'https://50projects50days.com/img/projects-img/50-insect-catch-game.png',
+        link: 'InsectCatchGame',
     },
 ]
