@@ -102,9 +102,10 @@ pnpm build
 | 34   | Animated Countdown            | ✅ 已完成 | `/projects/AnimatedCountdown`           |
 | 35   | Image Carousel                | ✅ 已完成 | `/projects/ImageCarousel`               |
 | 36   | Hoverboard                    | ✅ 已完成 | `/projects/Hoverboard`                  |
-| 37   | Pokedex                       | 🚧 开发中 | `/projects/Pokedex`                     |
+| 37   | Pokedex                       | ✅ 已完成 | `/projects/Pokedex`                     |
+| 38   | MobileTabNavigation           | 🚧 开发中 | `/projects/MobileTabNavigation`         |
 
-| 33\~50 | ... | 🔜 敬请期待 | - |
+| 38\~50 | ... | 🔜 敬请期待 | - |
 
 > 🧱 每个项目都将作为独立页面进行展示，可在首页查看项目列表跳转。
 

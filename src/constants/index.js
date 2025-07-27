@@ -221,4 +221,10 @@ export const projectList = [
         image: 'https://50projects50days.com/img/projects-img/36-hoverboard.png',
         link: 'Hoverboard',
     },
+    {
+        id: 37,
+        title: 'Pokedex',
+        image: 'https://50projects50days.com/img/projects-img/37-pokedex.png',
+        link: 'Pokedex',
+    },
 ]

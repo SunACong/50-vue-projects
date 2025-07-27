@@ -193,6 +193,11 @@ const routes = [
         name: 'Hoverboard',
         component: () => import('@/projects/Hoverboard.vue'),
     },
+    {
+        path: '/Pokedex',
+        name: 'Pokedex',
+        component: () => import('@/projects/Pokedex.vue'),
+    },
 ]
 
 const router = createRouter({
